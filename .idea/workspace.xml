@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="558dfb6a-287f-4ff5-a32b-e0e89948b148" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X4Aoo246qzBj4E6ojeD7q6xASw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pixel/pixelrealm-app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="558dfb6a-287f-4ff5-a32b-e0e89948b148" name="Default Changelist" comment="" />
+      <created>1580295170113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580295170113</updated>
+      <workItem from="1580295171527" duration="3339000" />
+      <workItem from="1580310624215" duration="6496000" />
+      <workItem from="1580373381475" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580297708172">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="531" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.-394.1080.1890@0.0.1920.1050" timestamp="1580297708172" />
+    <state x="765" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1580297611507">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.-394.1080.1890@0.0.1920.1050" timestamp="1580297611507" />
+    <state x="592" y="223" key="FileChooserDialogImpl" timestamp="1580373394340">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="592" y="223" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1580373394340" />
+    <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1050/1920.-394.1080.1890@0.0.1920.1050" timestamp="1580297694228" />
+    <state x="2336" y="112" key="FileChooserDialogImpl/0.0.1920.1050/1920.-394.1080.1890@1920.-394.1080.1890" timestamp="1580319639215" />
+    <state width="1059" height="542" key="GridCell.Tab.0.bottom" timestamp="1580321603315">
+      <screen x="1920" y="-394" width="1080" height="1890" />
+    </state>
+    <state width="1059" height="542" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.-394.1080.1890@1920.-394.1080.1890" timestamp="1580321603315" />
+    <state width="1059" height="542" key="GridCell.Tab.0.center" timestamp="1580321603315">
+      <screen x="1920" y="-394" width="1080" height="1890" />
+    </state>
+    <state width="1059" height="542" key="GridCell.Tab.0.center/0.0.1920.1050/1920.-394.1080.1890@1920.-394.1080.1890" timestamp="1580321603315" />
+    <state width="1059" height="542" key="GridCell.Tab.0.left" timestamp="1580321603315">
+      <screen x="1920" y="-394" width="1080" height="1890" />
+    </state>
+    <state width="1059" height="542" key="GridCell.Tab.0.left/0.0.1920.1050/1920.-394.1080.1890@1920.-394.1080.1890" timestamp="1580321603315" />
+    <state width="1059" height="542" key="GridCell.Tab.0.right" timestamp="1580321603315">
+      <screen x="1920" y="-394" width="1080" height="1890" />
+    </state>
+    <state width="1059" height="542" key="GridCell.Tab.0.right/0.0.1920.1050/1920.-394.1080.1890@1920.-394.1080.1890" timestamp="1580321603315" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1580296992359">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.-394.1080.1890@0.0.1920.1050" timestamp="1580296992359" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+{
+  "name": "dts-third",
+  "version": "1.0.0",
+  "description": "d",
+  "main": "./@types/react-d3-graph",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
